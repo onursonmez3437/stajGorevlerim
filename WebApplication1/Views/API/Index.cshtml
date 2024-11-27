@@ -1,0 +1,29 @@
+﻿@model List<WebApplication1.Models.siniflar.Nedir>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<h2>API sayfası</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Konu</th>
+            <th>Açıklama</th>
+            <th>Ek Açıklama</th>
+            <th>Değer</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.konu</td>
+                <td>@item.aciklama</td>
+                <td>@item.ekAciklama</td>
+                <td>@item.deger</td>
+            </tr>
+        }
+    </tbody>
+</table>

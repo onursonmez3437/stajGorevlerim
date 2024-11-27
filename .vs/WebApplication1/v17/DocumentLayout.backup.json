@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|d:\\masa\u00FCst\u00FC\\staj sitesi\\stajgorevlerim\\webapplication1\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\models\\siniflar\\nedir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\models\\siniflar\\nedir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\models\\siniflar\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\models\\siniflar\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\controllers\\apcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\controllers\\apcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\models\\siniflar\\yorumlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\models\\siniflar\\yorumlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\views\\api\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\views\\api\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\jobs\\downloadjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\jobs\\downloadjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\webapplication1\\models\\siniflar\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B448FB00-BA18-42B7-B61A-1337470D1152}|WebApplication1\\TravelTipProje.csproj|solutionrelative:webapplication1\\models\\siniflar\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 282,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 652,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Web.Release.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.Release.config",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Web.Release.config",
+              "RelativeToolTip": "WebApplication1\\Web.Release.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T19:03:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Web.Debug.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.Debug.config",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Web.Debug.config",
+              "RelativeToolTip": "WebApplication1\\Web.Debug.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T19:03:27.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:55:52.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DownloadJob.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Jobs\\DownloadJob.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Jobs\\DownloadJob.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Jobs\\DownloadJob.cs",
+              "RelativeToolTip": "WebApplication1\\Jobs\\DownloadJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:55:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Web.config",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Views\\Web.config",
+              "ViewState": "AgIAAB4AAAAAdXGmLs4kwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T18:54:59.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:54:57.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwEsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T18:54:45.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogYorum.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\BlogYorum.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\siniflar\\BlogYorum.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\BlogYorum.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\siniflar\\BlogYorum.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:47:01.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T18:46:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\Context.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\siniflar\\Context.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\Context.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\siniflar\\Context.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:37:27.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAywBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:37:16.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nedir.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\Nedir.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\siniflar\\Nedir.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\Nedir.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\siniflar\\Nedir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:32:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:03:57.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogDetay.cshtml",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Blog\\BlogDetay.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Blog\\BlogDetay.cshtml",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Blog\\BlogDetay.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Blog\\BlogDetay.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAhwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:58:55.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APController.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\APController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\APController.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\APController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\APController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:48:41.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_TestLayout.cshtml",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_TestLayout.cshtml",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_TestLayout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:44:22.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\API\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\API\\Index.cshtml",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Views\\API\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\API\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T17:44:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\APIController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\APIController.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\APIController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\APIController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:42:47.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Yorumlar.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\Yorumlar.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\siniflar\\Yorumlar.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Models\\siniflar\\Yorumlar.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\siniflar\\Yorumlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:02:00.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AboutController.cs",
+              "ToolTip": "D:\\masa\u00FCst\u00FC\\staj sitesi\\stajGorevlerim\\WebApplication1\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:00:58.452Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1828,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2033,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
