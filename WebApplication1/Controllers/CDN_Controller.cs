@@ -4,10 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using WebApplication1.Models.siniflar;
-
 namespace WebApplication1.Controllers
 {
-    public class APIController : Controller
+    public class CDN_Controller : Controller
     {
 
         Context c = new Context();
@@ -16,14 +15,14 @@ namespace WebApplication1.Controllers
         // GET: API
         public ActionResult Index()
         {
-            by.Nedirler= c.Nedir.ToList();
+            by.Nedirler = c.Nedir.ToList();
             var t = c.Nedir.ToList();
             return View(t);
         }
 
         public ActionResult nedir()
         {
-            var t  = c.Nedir.ToList();
+            var t = c.Nedir.ToList();
             return View(t);
         }
         public ActionResult NedirDetay(int id)

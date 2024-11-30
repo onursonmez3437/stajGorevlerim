@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_TestLayout.cshtml";
 
     // ID'si 1 olan öğeyi filtrele
-    var filteredModel = Model.Where(x => x.ID == 1).ToList();
+    var filteredModel = Model.Where(x => x.ID == 2).ToList();
 }
 <head>
     <title>Photier Staj Sitem</title>
@@ -24,35 +24,33 @@
 <style>
     .sticky {
         position: fixed;
-        top: 250px; /* Sayfanın üstünden 10px boşluk bırak */
-        right: 50px; /* Sayfanın sağından 10px boşluk bırak */
+        right: 50px; /* Sayfanın sağından 50px boşluk bırak */
         width: 350px; /* Sabit genişlik ayarla */
+        bottom: 200px; /* Sayfanın altından 50px boşluk bırak */
     }
 </style>
-
 <body>
     <div class="single">
         <div class="container">
             <div class="col-md-8 single-main">
+                <h2>Content Delivery Network (CDN) Nedir?</h2>
+
                 @foreach (var x in filteredModel)
                 {
                     <div class="single-grid">
                         <p class="bold-paragraph">@x.aciklama</p>
                         <img src="@x.ekAciklama" alt="" style="margin-buttom:20px;" />
-                        <p class="bold-paragraph">@x.aciklama2</p>
-                        <p class="bold-paragraph">API’nin Önemi</p>
-                        <p class="bold-paragraph">@x.aciklama3</p>
-                        <p class="bold-paragraph">API’nin İşleyişi</p>
-                        <img src="@x.imageUrl2" alt="" style="margin-buttom:20px;" />
+                        <br> </br>
                         <ul>
-                            <li>* İstemci: Müşteri, menüden yemek siparişi verir.</li>
-                            <li>* API: Garson, siparişi mutfağa iletir.</li>
-                            <li>* Sunucu: Mutfak, yemeği hazırlar ve garson aracılığıyla müşteriye teslim eder.</li>
+                            <li><strong>Daha Hızlı Yükleme Süreleri:</strong> İçerik, kullanıcının bulunduğu lokasyona en yakın sunucudan iletildiği için sayfalar daha hızlı yüklenir.</li>
+                            <li><strong>Sunucu Yükünü Azaltır:</strong> CDN, birincil sunucudaki yükü dağıtarak daha dengeli bir trafik yönetimi sağlar.</li>
+                            <li><strong>Daha İyi Güvenlik:</strong> DDoS saldırılarına karşı koruma, SSL/TLS sertifikaları ve güvenlik duvarları sunar.</li>
+                            <li><strong>Daha Geniş Erişim:</strong> Küresel sunucu ağı sayesinde dünya çapında daha tutarlı ve hızlı erişim sağlar.</li>
                         </ul>
-                        <p class="bold-paragraph">
-                            Özetle
-                            API (Application Programming Interface), farklı yazılımlar arasında iletişimi sağlayan ve onların ortak bir dil üzerinden veri alışverişi yapmalarını mümkün kılan önemli bir bileşendir. Gündelik hayatımızda farklı diller konuşan iki kişinin ortak bir dilde iletişim kurması gibi, API’ler de farklı yazılımlar arasında ortak bir köprü işlevi görür. Bu yüzden yazılım geliştirme süreçlerinde önemli bir yer tutar ve pek çok işlevin sıfırdan yazılmadan entegre edilebilmesini sağlar.
-                        </p>
+                        <br />
+                        <img src="@x.imageUrl2" alt="" style="margin-buttom:20px;" />
+                        <br />
+                        <p class="bold-paragraph">@x.aciklama3</p>
                     </div>
                 }
             </div>

@@ -228,6 +228,7 @@
   <ItemGroup>
     <Compile Include="Controllers\APController.cs" />
     <Compile Include="Controllers\APIController.cs" />
+    <Compile Include="Controllers\CDN_Controller.cs" />
     <Compile Include="Jobs\DownloadJob.cs" />
     <Compile Include="Models\siniflar\Nedir.cs" />
     <Compile Include="Program.cs" />
@@ -395,6 +396,7 @@
     <Content Include="Views\Blog\BlogDetay.cshtml" />
     <Content Include="Views\Lokalizasyon\ChangeLanguage.cshtml" />
     <Content Include="Views\API\Index.cshtml" />
+    <Content Include="Views\CDN_\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
